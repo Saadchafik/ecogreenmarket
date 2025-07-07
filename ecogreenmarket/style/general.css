@@ -1,0 +1,91 @@
+body{
+  margin: 0px;
+  font-family: "Quicksand","Open Sans";
+  width: 100%;
+}
+main{
+  padding: 10px;
+
+}
+.title{
+  border:#1c2925 1px solid;
+  text-align: center;
+  font-size: 50px;
+  font-family: "Open Sans";
+  color:#ffffff;
+  background-color: #14513f;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+
+}
+
+/*BTN*/
+#addPanBtn{
+  width: 80px;
+  align-self: flex-end;
+ margin-left: 165px;
+  margin-bottom: 5px;
+  cursor: pointer;
+  font-size: 14px;
+  font-family: "Open Sans";
+  font-weight: 600;
+  padding: 5px;
+  border-radius: 50px;
+  background-color: #50b589;
+  color: white;
+  border: none;
+  margin-top: 5px;
+  
+}
+#addPanBtn:hover{
+  background-color: white;
+  color : #50b589;
+  width: 80px;
+  border: 1px solid #50b589;
+}
+
+
+.price{
+  color: #32654f;
+  font-weight: 600;
+  font-family: "Open Sans";
+  align-self: flex-start;
+   margin-left: 10px;
+   margin-top: 2px;
+}
+
+
+/*add*/
+#adpanier{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  height: 80px;
+  border: 1px solid white;
+  box-shadow: rgba(255, 255, 255, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+/*remove*/
+#removeBtn{
+  width: 80px;
+  align-self: flex-end;
+ margin-left: 165px;
+  margin-bottom: 5px;
+  cursor: pointer;
+  font-size: 14px;
+  font-family: "Open Sans";
+  font-weight: 600;
+  padding: 5px;
+  border-radius: 50px;
+  background-color: white;
+  color: #50b589;
+  border: 1px solid #50b589 ;
+}
+#removeBtn:hover{
+  background-color: #50b589 ;
+  color : white;
+  width: 80px;
+  border: 1px solid #50b589;
+}
+
+
+

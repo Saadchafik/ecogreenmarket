@@ -1,0 +1,15 @@
+.aboutH{
+  text-align: center;
+  font-size: 50px;
+  font-weight: 500;
+}
+#aboutP{
+  text-align: center;
+  font-family: "Open Sans";
+  font-size: 20px;
+  border-bottom: 1px solid black;
+  padding: 20px;
+
+}
+
+

@@ -1,0 +1,49 @@
+footer{
+  margin: 0px;
+  background-color:#212a26;
+  padding:20px;
+  text-align:center;
+  border-top:1px solid #1a8e5a;
+  font-family: "Quicksand";
+  color: white;
+  margin: 0px;
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+footer P{
+  box-shadow: rgba(196, 196, 225, 0.25) 0px 2px 5px -1px, rgba(255, 255, 255, 0.3) 0px 1px 3px -1px;
+}
+#div1{
+   max-width:1200px;
+   margin:auto;
+}
+#div2{
+  display:flex; 
+  justify-content:space-between;
+   flex-wrap:wrap;
+}
+#div3{
+  flex:1; 
+  min-width:200px;
+  padding:10px;
+}
+#logo{
+  max-width:150px;
+}
+#div4{
+  flex:1; 
+  min-width:200px;
+   padding:10px;
+}
+.socialMedia{
+  margin:0 10px; text-decoration:none; color:#007bff;
+}
+
+#div5{
+  flex:1; 
+  min-width:200px;
+   padding:10px;
+}
+hr{
+  margin:20px 0;
+   color:white;
+}

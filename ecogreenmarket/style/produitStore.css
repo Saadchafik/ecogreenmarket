@@ -1,0 +1,17 @@
+.produitCont2{
+  border: 1px solid rgb(79, 54, 54);
+  align-self: center;
+  width: fit-content;
+  align-content: center;
+}
+.produitCont2 img {
+  width: 300px;
+  height: 300px;
+  display: inline;
+
+}
+.produitCont2 h1{
+  display: inline;
+  align-self: ;
+
+}
